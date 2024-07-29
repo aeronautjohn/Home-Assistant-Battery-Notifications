@@ -1,0 +1,8 @@
+battery_notifications:
+  module: battery_notifications
+  class: BatteryNotifications
+  notification_threshold: 30
+  reset_threshold: 50
+  notification_services:
+    - notify.notify_all
+  blacklist: []
