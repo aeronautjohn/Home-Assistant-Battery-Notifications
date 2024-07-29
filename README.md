@@ -7,7 +7,7 @@ The script listens for any device which has the `device_class` flag of `battery`
 
 1. Install the AppDaemon Add-On, if you don't have it already.
 
-2. In the AppDaemon apps folder (default: `/addon_configs/xxxxxxxx_appdaemon/apps'), copy `battery_notifications.py`
+2. In the AppDaemon apps folder (default: `/addon_configs/xxxxxxxx_appdaemon/apps`), copy `battery_notifications.py`
 
 3. In the same AppDaemon apps folder, edit `apps.yaml` and add the following:
 
